@@ -6,3 +6,5 @@ Unzip to your desktop (you might have to do this multiple times, so do it until 
 npm run dev
 
 Then control-click on the URL and it'll open it in your default browser.  I used ChatGPT to try to make messy code more accessible, and also generate most of the code.  Once you open it in your browser, it should be pretty intuitive.
+
+In the data admin tab, you can upload the provided CSV to import all the athletes for the Tokyo 2025 World Championship automatically.
