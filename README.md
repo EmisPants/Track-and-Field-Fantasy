@@ -1,7 +1,7 @@
 # Track-and-Field-Fantasy
 A locally hosted website that runs a Track and Field fantasy sports league according to (a slightly modified version of) the official World Athletics rules from 2007.
 
-Unzip to your desktop, open a terminal in the folder and run this command:
+Unzip to your desktop (you might have to do this multiple times, so do it until you get to the point where there is a (non compressed) folder called my-app-Copy on your desktop), open a terminal in the folder and run this command:
 
 npm run dev
 
